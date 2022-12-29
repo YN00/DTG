@@ -1,1 +1,1 @@
-# A.I.Matics Mobile DTG
+# DTG
